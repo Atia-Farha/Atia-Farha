@@ -82,10 +82,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=Atia-Farha&theme=dark&hide_border=true" alt="Contribution Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atia-Farha&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Commits Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atia-Farha&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Commits Streak">
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atia-Farha&theme=radical&hide_border=true" alt="Top Languages">
