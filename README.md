@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+My+Profile!;I+am+Atia+Farha" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+My+Profile!;I+am+Atia+Farha" alt="Typing SVG">
 </h1>
 <p align="center" style="font-size: 18px;">
   A passionate student, self-taught programmer, and aspiring developer from Bangladesh
@@ -18,7 +18,7 @@
 ## 🔧 Skills & Technologies
 <div style=" display: flex; flex-direction: column; gap: 0.5em;">
  <div style="display: flex; align-items: center; gap: 0.5em;">
-  <span>Web Development:</span>
+  <h3>Web Development:</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
