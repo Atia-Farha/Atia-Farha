@@ -16,19 +16,17 @@
 </ul>
 
 ## 🔧 Skills & Technologies
-<div style=" display: flex; flex-direction: column; gap: 0.5em;">
- <div style="display: flex; align-items: center; gap: 0.5em;">
-  <h3>Web Development:</h3>
+### Web Development:
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </div>
-   <div style="display: flex; align-items: center; gap: 0.5em;">
-  <span>Basic Programming:</span>
+</div>
+### Basic Programming:
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/C-1572F7?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  </div>
 </div>
 
 ## 🌱 Current Learning
