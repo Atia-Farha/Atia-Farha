@@ -7,13 +7,16 @@
 </p>
 
 ## 👩 About Me
-<ul>
-  <li><b>Age:</b> 19</li>
-  <li><b>Country:</b> Bangladesh</li>
-  <li><b>Personality (MBTI):</b> INTP</li>
-  <li><b>Goal:</b> Being a full-stack developer</li>
-  <li><b>Fun fact:</b> When I'm not glued to my computer screen, you might find me playing Rubik's Cube, online games and badminton, doodling, listening to music, watching Korean series and searching randomly on Google.</li>
-</ul>
+- **Age:** 19
+- **Country:** Bangladesh
+- **Personality (MBTI):** INTP
+- **Goal:** Being a full-stack developer
+- **Fun fact:** When I'm not glued to my computer screen, you might find me:
+  - Playing Rubik's Cube, online games or badminton
+  - Doodling
+  - Listening to music
+  - Watching Korean series
+  - Searching randomly on Google
 
 ## 🔧 Skills & Technologies
 ### Web Development:
@@ -31,45 +34,47 @@
 </div>
 
 ## 🌱 Current Learning
-<div style=" display: flex; flex-direction: column; gap: 0.5em;">
- <div style="display: flex; align-items: center; gap: 0.5em;">
-  <span>Frontend Framework:</span>
+### Frontend Framework:
+<div align="center">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
- </div>
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-  <span>Backend Framework:</span>
+</div>
+
+### Backend Framework:
+<div align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  </div>
-   <div style="display: flex; align-items: center; gap: 0.5em;">
-  <span>Database:</span>
+</div>
+
+### Database:
+<div align="center">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  </div>
-   <div style="display: flex; align-items: center; gap: 0.5em;">
-  <span>Backend Tool:</span>
+</div>
+
+### Backend Tool:
+<div align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  </div>
 </div>
 
 ## 🎯 Future Learning Plan
-<div style=" display: flex; flex-direction: column; gap: 0.5em;">
- <div style="display: flex; align-items: center; gap: 0.5em;">
-  <span>Frontend Framework:</span>
+### Frontend Framework:
+<div align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-  </div>
-   <div style="display: flex; align-items: center; gap: 0.5em;">
-  <span>Backend Framework:</span>
+</div>
+
+### Backend Framework:
+<div align="center">
   <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  </div>
-   <div style="display: flex; align-items: center; gap: 0.5em;">
-  <span>Database:</span>
+</div>
+
+### Database:
+<div align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  </div>
-  <div style="display: flex; align-items: center; gap: 0.5em;">
-  <span>Android Development:</span>
+</div>
+
+### Android Development:
+<div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
     <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose">
-  </div>
 </div>
 
 ## 📈 GitHub Stats
@@ -79,6 +84,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </div>
+<br>
 <br>
 <div align="center">
   <a href="https://github.com/Atia-Farha?tab=repositories">
