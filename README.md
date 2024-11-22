@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+My+Profile!;I+am+Atia+Farha" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+My+Profile!;I+am+Atia+Farha" alt="Typing SVG">
 </h1>
 <p align="center" style="font-size: 18px;">
   A passionate student, self-taught programmer, and aspiring developer from Bangladesh
