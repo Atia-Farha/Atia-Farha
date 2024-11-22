@@ -80,12 +80,12 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </div>
+<br>
 <div align="center">
   <a href="https://github.com/Atia-Farha?tab=repositories">
     <img src="https://img.shields.io/badge/My%20Projects-View-green?style=flat-square" alt="Projects Badge">
   </a>
 </div>
-
 <p align="center">⭐If you like my work, consider starring my repositories⭐</p> 
 
 ## 💬 Let's Connect!
