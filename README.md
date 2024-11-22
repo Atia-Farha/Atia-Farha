@@ -8,12 +8,15 @@
 
 ## 👩 About Me
 - **Age:** 19
+- **Pronoun:** She/Her
 - **Country:** Bangladesh
 - **Personality (MBTI):** INTP
 - **Goal:** Being a full-stack developer
 - **Fun fact:** When I'm not glued to my computer screen, you might find me:
-  - Playing Rubik's Cube, online games or badminton
+  - Playing Rubik's Cube
+  - Gaming
   - Doodling
+  - Playing badminton
   - Listening to music
   - Watching Korean series
   - Searching randomly on Google
