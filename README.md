@@ -6,14 +6,6 @@
   A passionate student, self-taught programmer, and aspiring developer from Bangladesh
 </p>
 
-<div align="center">
-  <a href="https://github.com/Atia-Farha?tab=repositories">
-    <img src="https://img.shields.io/badge/My%20Projects-View-green?style=flat-square" alt="Projects Badge">
-  </a>
-</div>
-
-<p align="center">★If you like my work, consider starring my repositories★</p>
-
 ## 👩 About Me
 <ul>
   <li><b>Age:</b> 19</li>
@@ -88,6 +80,13 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </div>
+<div align="center">
+  <a href="https://github.com/Atia-Farha?tab=repositories">
+    <img src="https://img.shields.io/badge/My%20Projects-View-green?style=flat-square" alt="Projects Badge">
+  </a>
+</div>
+
+<p align="center">⭐If you like my work, consider starring my repositories⭐</p> 
 
 ## 💬 Let's Connect!
 <div align="center">
