@@ -94,13 +94,13 @@
 
 ## 💬 Let's Connect!
 <div align="center">
-  <a href="https://www.instagram.com/itzz_at_iaaa/profilecard/?igsh=MTVoOWM5NTF0aHNodA==">
+  <a href="https://www.instagram.com/itzz_at_iaaa/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 15px" alt="Instagram">
   </a>
   <a href="https://github.com/Atia-Farha"> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 15px" alt="GitHub">
   </a>
-  <a href="https://www.reddit.com/u/DJ_Silent/s/GWCEW9cGL5">
+  <a href="https://www.reddit.com/u/DJ_Silent/">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="border-radius: 15px" alt="Reddit">
   </a>
 </div>
