@@ -62,15 +62,15 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
+### Cross-platform Framework:
+<div align="center">
+	<img src="https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+</div>
+
 ### Android Development:
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
     <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose">
-</div>
-
-### Cross-platform Framework:
-<div align="center">
-	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </div>
 
 ## 📈 GitHub Stats
