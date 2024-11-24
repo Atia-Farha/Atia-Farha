@@ -68,6 +68,11 @@
     <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose">
 </div>
 
+### Cross-platform Framework:
+<div align="center">
+	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+</div>
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Atia-Farha&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Commits Streak">
