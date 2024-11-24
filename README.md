@@ -32,7 +32,7 @@
 ## 🌱 Current Learning
 ### Frontend Framework:
 <div align="center">
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
 </div>
 
 ### Backend Framework:
@@ -51,11 +51,6 @@
 </div>
 
 ## 🎯 Future Learning Plan
-### Frontend Framework:
-<div align="center">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-</div>
-
 ### Backend Framework:
 <div align="center">
   <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white" alt="Django">
