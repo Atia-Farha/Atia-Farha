@@ -82,6 +82,8 @@
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies">
+		  <img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=radical&no-frame=true"></img>
+		  <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atia-Farha&layout=compact&theme=tokyonight&hide_progress=true&langs_count=40&count_private=true"></img>
 </div>
 <br>
 <br>
