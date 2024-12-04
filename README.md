@@ -88,7 +88,8 @@
     <img src="https://img.shields.io/badge/My%20Projects-View-green?style=flat-square" alt="Projects Badge">
   </a>
 </div>
-<p align="center">⭐If you like my work, consider starring my repositories⭐</p> 
+<p align="center">⭐If you like my work, consider starring my repositories⭐</p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{K1rsN7}/count.svg" /></p>  
 
 ## 💬 Let's Connect!
 <div align="center">
