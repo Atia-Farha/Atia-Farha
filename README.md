@@ -12,7 +12,7 @@
 - **Country:** Bangladesh
 - **Personality (MBTI):** INTP
 - **Goal:** Full-stack developer
-- **Fun fact:** When I'm not glued to my computer screen, you might find me playing Rubik's Cube, online games and badminton, doodling, listening to music, watching Korean series or searching randomly on Google.
+- **Fun fact:** When I'm not glued to my computer screen, you might find me playing Rubik's Cube, online games and badminton, doodling, listening to music, watching Korean series, reading webtoons or searching randomly on Google.
 
 ## 🔧 Skills & Technologies
 ### Web Development:
@@ -51,16 +51,16 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 </div>
 
+### Cross-platform Framework:
+<div align="center">
+	<img src="https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+</div>
+
 ### Android Development:
 <div align="center">
   <img src="https://img.shields.io/badge/XML-FF8000?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
     <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose">
-</div>
-
-### Cross-platform Framework:
-<div align="center">
-	<img src="https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </div>
 
 ### Database:
