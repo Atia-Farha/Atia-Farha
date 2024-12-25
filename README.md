@@ -12,7 +12,7 @@
 - **Country:** Bangladesh
 - **Personality (MBTI):** INTP
 - **Goal:** Full-stack developer
-- **Fun fact:** When I'm not glued to coding, you might find me playing Rubik's Cube, online games and badminton, doodling, listening to music, watching Korean series, reading webtoons or searching randomly on Google.
+- **Fun fact:** When I'm not glued to coding, you might find me solving a Rubik's Cube, playing online games or badminton, doodling, listening to music, watching Korean series, reading webtoons, or searching for random things on Google.
 
 ## 🔧 Skills & Technologies
 ### Web Development:
