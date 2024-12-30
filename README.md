@@ -16,14 +16,14 @@
 
 ## 🔧 Skills & Technologies
 ### Web Development:
-<div class="center">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
 ### Basic Programming:
-<div class="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/C-1572F7?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -32,40 +32,40 @@
 ## 🌱 Current Learning
 
 ### CSS Framework:
-<div class="center" >
+<div align="center" >
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
  
 ### Backend:
-<div class="center">
+<div align="center">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </div>
 
 ### Backend Tool:
-<div class="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </div>
 
 ## 🎯 Future Learning Plan
 
 ### Frontend Framework:
-<div class="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
 </div>
 
 ### Backend:
-<div class="center">
+<div align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </div>
 
 ### Cross-platform Development:
-<div class="center">
+<div align="center">
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
 	<img src="https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </div>
 
 ### Database:
-<div class="center">
+<div align="center">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -73,30 +73,30 @@
 </div>
 
 ## 📈 GitHub Stats
-<div class="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Atia-Farha&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Commits Streak">
-</center>
-<center>
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atia-Farha&theme=radical&hide_border=true" alt="Top Languages">
 </div>
-<div class="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </div>
 <br>
 <br>
-<div class="center">
+<div align="center">
   <a href="https://github.com/Atia-Farha?tab=repositories">
     <img src="https://img.shields.io/badge/My%20Projects-View-green?style=flat-square" alt="Projects Badge">
   </a>
 </div>
-<div class="center">⭐If you like my work, consider starring my repositories⭐</div>
+<div align="center">⭐If you like my work, consider starring my repositories⭐</div>
 
-<div class="center">
+<div>
 <img align="center" src="https://profile-counter.glitch.me/{Atia-Farha}/count.svg" />
 </div>  
 
 ## 💬 Let's Connect!
-<div class="center">
+<div align="center">
   <a href="https://www.instagram.com/itzz_at_iaaa/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 15px" alt="Instagram">
   </a>
@@ -107,6 +107,6 @@
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="border-radius: 15px" alt="Reddit">
   </a>
 </div>
-<div class="center">
+<div align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
