@@ -2,7 +2,7 @@
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+My+Profile!;I+am+Atia+Farha" alt="Typing SVG">
 </h1>
-<div align="center">
+<div align="center" style="font-size: 18px;">
   A passionate student, self-taught programmer, and aspiring developer from Bangladesh
 </div>
 
