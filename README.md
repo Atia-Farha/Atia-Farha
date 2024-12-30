@@ -91,8 +91,8 @@
 </div>
 <div align="center">⭐If you like my work, consider starring my repositories⭐</div>
 
-<div>
-<img align="center" src="https://profile-counter.glitch.me/{Atia-Farha}/count.svg" />
+<div align="center">
+<img src="https://profile-counter.glitch.me/{Atia-Farha}/count.svg" />
 </div>  
 
 ## 💬 Let's Connect!
