@@ -2,9 +2,9 @@
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+My+Profile!;I+am+Atia+Farha" alt="Typing SVG">
 </h1>
-<p align="center" style="font-size: 18px;">
+<div align="center">
   A passionate student, self-taught programmer, and aspiring developer from Bangladesh
-</p>
+</div>
 
 ## 👩 About Me
 - **Age:** 19
