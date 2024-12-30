@@ -30,14 +30,15 @@
 </div>
 
 ## 🌱 Current Learning
-### Frontend Framework:
-<div align="center">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-</div>
 
 ### CSS Framework:
 <div align="center">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</div>
+ 
+### Backend:
+<div align="center">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </div>
 
 ### Backend Tool:
@@ -46,9 +47,14 @@
 </div>
 
 ## 🎯 Future Learning Plan
+
+### Frontend Framework:
+<div align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+</div>
+
 ### Backend:
 <div align="center">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </div>
 
