@@ -11,7 +11,7 @@
 - **Pronoun:** She/Her
 - **Country:** Bangladesh
 - **Personality (MBTI):** INTP
-- **Goal:** Full-stack developer
+- **Goal:** Full-stack Python developer
 - **Fun fact:** When I'm not glued to coding, you might find me solving a Rubik's Cube, playing online games or badminton, doodling, listening to music, watching Korean series, reading webtoons, or searching for random things on Google.
 
 ## 🔧 Skills & Technologies
