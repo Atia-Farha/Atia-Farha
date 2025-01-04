@@ -104,7 +104,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 15px" alt="GitHub">
   </a>
   <a href="https://www.reddit.com/u/DJ_Silent/">
-  <img src="https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="border-radius: 15px" alt="Reddit">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="border-radius: 15px" alt="Reddit">
   </a>
 </div>
 <div align="center">
