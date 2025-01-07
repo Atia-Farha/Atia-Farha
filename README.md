@@ -11,6 +11,7 @@
 - **Pronoun:** She/Her
 - **Country:** Bangladesh
 - **Personality (MBTI):** INTP
+- **Operating system I use:** <img src="https://img.shields.io/badge/MX_Linux-XFCE-0078C8?style=for-the-badge&logo=linux&logoColor=white" alt="MX Linux XFCE">
 - **Goal:** Full-stack Python developer
 - **Fun fact:** When I'm not glued to coding, you might find me solving a Rubik's Cube, playing online games or badminton, doodling, listening to music, watching Korean series, reading webtoons, or searching for random things on Google.
 
