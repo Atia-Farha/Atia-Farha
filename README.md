@@ -7,7 +7,7 @@
 </div>
 
 ## 👩 About Me
-- **Age:** 19
+- **Age:** 18
 - **Pronoun:** She/Her
 - **Country:** Bangladesh
 - **Personality (MBTI):** INTP
