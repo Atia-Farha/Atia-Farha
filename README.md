@@ -92,7 +92,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atia-Farha&theme=transparent&hide_border=true" alt="Top Languages">
 </div>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=radical&no-frame=true&title=Commits,Followers,Stars,Experience&column=-1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=radical&no-frame=true&title=Commits,Followers,Repositories,Stars,Experience&column=-1"/>
 </div>
 <br>
 <br>
