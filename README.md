@@ -6,7 +6,7 @@
   <p>A passionate student, self-taught programmer, and aspiring developer from Bangladesh</p>
 
   <a href="https://github.com/Atia-Farha?tab=repositories"> 
-    <img src="https://img.shields.io/badge/Focus-Automation-CB9DF0?style=flat"/>
+    <img src="https://img.shields.io/badge/View-My_Repositories-CB9DF0?style=flat"/>
   </a>
 </div>
 
@@ -99,14 +99,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=radical&no-frame=true&title=Commits,Followers,Repositories,Stars,Experience&column=-1"/>
 </div>
 <br>
-<br>
-<div align="center">
-  <a href="https://github.com/Atia-Farha?tab=repositories">
-    <img src="https://img.shields.io/badge/My%20Projects-View-green?style=flat-square" alt="Projects Badge">
-  </a>
-</div>
-<div align="center">⭐If you like my work, consider starring my repositories⭐</div>
-
 <div align="center">
 <img src="https://profile-counter.glitch.me/{Atia-Farha}/count.svg" />
 </div>  
