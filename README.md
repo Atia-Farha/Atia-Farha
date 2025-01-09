@@ -3,7 +3,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+My+Profile!;I+am+Atia+Farha" alt="Typing SVG">
 </h1>
 <div align="center">
-  A passionate student, self-taught programmer, and aspiring developer from Bangladesh
+  <p>A passionate student, self-taught programmer, and aspiring developer from Bangladesh</p>
+
+  <a href="https://github.com/Atia-Farha?tab=repositories"> 
+    <img src="https://img.shields.io/badge/Focus-Automation-CB9DF0?style=flat"/>
+  </a>
 </div>
 
 ## 👩 About Me
@@ -89,7 +93,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Atia-Farha&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Commits Streak">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atia-Farha&theme=transparent&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atia-Farha&theme=shadow-blue&hide_border=true" alt="Top Languages">
 </div>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=radical&no-frame=true&title=Commits,Followers,Repositories,Stars,Experience&column=-1"/>
