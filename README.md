@@ -90,17 +90,17 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atia-Farha&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Commits Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atia-Farha&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atia-Farha&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atia-Farha&layout=compact&theme=nightowl&hide_border=true">
 </div>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=tokyonight&no-frame=true&title=Commits,Followers,Repositories,Stars,Experience&column=-1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=tokyonight&no-frame=true&title=Commits,Followers,Repositories,Stars,Experience&column=-1" />
 </div>
 <br>
 <div align="center">
-<img src="https://profile-counter.glitch.me/{Atia-Farha}/count.svg" />
+<img src="https://profile-counter.glitch.me/{Atia-Farha}/count.svg"/>
 </div>  
 
 ## 💬 Let's Connect!
