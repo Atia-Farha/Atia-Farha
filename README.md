@@ -31,7 +31,6 @@
 ### Basic Programming:
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/C-1572F7?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </div>
 
