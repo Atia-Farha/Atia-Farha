@@ -83,11 +83,6 @@
   <img src="https://img.shields.io/badge/Java%20Swing-5382a1?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing">
 </div>
 
-### Backend Tool:
-<div align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-</div>
-
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Atia-Farha&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D">
