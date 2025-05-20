@@ -5,6 +5,8 @@
 <div align="center">
   <p>A passionate student, self-taught programmer, and aspiring developer from Bangladesh</p>
 
+[![committers.top badge](https://user-badge.committers.top/bangladesh/USERNAME.svg)](https://user-badge.committers.top/bangladesh/USERNAME)
+
   <a href="https://github.com/Atia-Farha?tab=repositories"> 
     <img src="https://img.shields.io/badge/View-My_Projects-CB9DF0?style=flat"/>
   </a>
