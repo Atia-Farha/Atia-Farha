@@ -11,14 +11,14 @@
 </div>
 
 ## 👩 About Me
-- **Age:** 18
+- **Age:** 19
 - **Pronoun:** She/Her
 - **Country:** Bangladesh
 - **Personality type (MBTI):** INTP
 - **Goal:** Full-stack developer
-- **Fun fact:** When I'm not glued to coding, you might find me solving a Rubik's Cube, playing online games or badminton, doodling, listening to music, watching Korean series, reading webtoons, or searching for random things on Google.
+- **Fun fact:** When I'm not glued to coding, you might find me solving a Rubik's Cube, playing online games or badminton, doodling, listening to musics, watching Korean series, reading webtoons, or searching for random things on Google.
 
-## 🔧 Skills & Technologies
+## 🔧 Technologies I use
 ### Web Development:
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,11 +29,11 @@
 
 ### Basic Programming:
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-1572F7?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 ### Database
@@ -41,13 +41,14 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-## Tools:
+### Tools:
 <div align="center" >
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
@@ -80,9 +81,11 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
-### OPP:
+### Java:
 <div align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Java%20Swing-5382a1?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaFX-5382a1?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 ## 📈 GitHub Stats
@@ -97,21 +100,40 @@
 </div>
 <br>
 <div align="center">
-<img src="https://profile-counter.glitch.me/{Atia-Farha}/count.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=Atia-Farha&label=Profile%20Views&color=CB9DF0&style=for-the-badge&base=700&abbreviated=true">
 </div>  
 
 ## 💬 Let's Connect!
 <div align="center">
+  <a href="https://leetcode.com/u/Atia-Farha/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+
+  <a href="https://codeforces.com/profile/Atia-Farha">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/atia-farha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://www.facebook.com/Itzz.Atia">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  
   <a href="https://www.instagram.com/itzz_at_iaaa/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+
+  <a href="https://discordapp.com/users/1286032352333791398">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
   <a href="https://github.com/Atia-Farha"> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.reddit.com/u/DJ_Silent/">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
+    
 <div align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=CB9DF0&height=100&section=footer"/>
 </div>
