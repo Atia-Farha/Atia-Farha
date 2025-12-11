@@ -44,6 +44,11 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+### TUI
+<div align="center">
+  <img src="https://img.shields.io/badge/Textual-6F3FC7?style=for-the-badge&logo=python&logoColor=white">
+</div> 
+
 ### Tools:
 <div align="center" >
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -86,6 +91,7 @@
 
 ### GUI:
 <div align="center">
+  <img src="https://img.shields.io/badge/DearPyGUI-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java%20Swing-5382a1?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaFX-5382a1?style=for-the-badge&logo=java&logoColor=white">
 </div>
