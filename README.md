@@ -15,8 +15,8 @@
 - **Pronoun:** She/Her
 - **Country:** Bangladesh
 - **Personality type (MBTI):** INTP
-- **Goal:** Full-stack developer
-- **Fun fact:** When I'm not glued to coding, you might find me solving a Rubik's Cube, playing online games or badminton, doodling, listening to music, watching Korean series, reading webtoons, or searching for random things on Google.
+- **Goal:** Frontend-Centric Software Engineer with Practical Backend Knowledge
+- **Fun fact:** When I'm not glued to coding, you might find me solving a Rubik's Cube, playing online games or badminton, listening to music, reading webtoons, watching Korean series, doodling or searching for random things on Google.
 
 ## 🔧 Technologies I use
 ### Web Development:
@@ -32,11 +32,11 @@
 
 ### Basic Programming:
 <div align="center">
-  <img src="https://img.shields.io/badge/C-1572F7?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776B2?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C-1572F7?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Java-04536F?style=for-the-badge&logo=coffeescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776B2?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 ### Database
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
   <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
