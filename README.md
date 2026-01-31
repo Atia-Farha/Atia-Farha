@@ -16,7 +16,7 @@
 - **Country:** Bangladesh
 - **Personality type (MBTI):** INTP
 - **Goal:** Full-stack developer
-- **Fun fact:** When I'm not glued to coding, you might find me solving a Rubik's Cube, playing online games or badminton, doodling, listening to musics, watching Korean series, reading webtoons, or searching for random things on Google.
+- **Fun fact:** When I'm not glued to coding, you might find me solving a Rubik's Cube, playing online games or badminton, doodling, listening to music, watching Korean series, reading webtoons, or searching for random things on Google.
 
 ## 🔧 Technologies I use
 ### Web Development:
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-6F2BF4?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white">
 </div>
 
 ### Basic Programming:
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/C-1572F7?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-04536F?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-04536F?style=for-the-badge&logo=coffeescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776B2?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
@@ -93,8 +93,8 @@
 
 ### GUI:
 <div align="center">
-  <img src="https://img.shields.io/badge/Java%20Swing-04536F?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaFX-04536F?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java%20Swing-04536F?style=for-the-badge&logo=coffeescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaFX-04536F?style=for-the-badge&logo=coffeescript&logoColor=white">
 </div>
 
 ## 📈 GitHub Stats
