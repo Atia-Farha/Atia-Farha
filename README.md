@@ -123,7 +123,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/atia-farha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white">
   </a>
   
   <a href="https://www.facebook.com/Itzz.Atia">
