@@ -99,10 +99,10 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atia-Farha&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <img src="https://streak-stats.demolab.com?user=Atia-Farha&theme=nightowl&hide_border=true" alt="Atia-Farha's GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atia-Farha&layout=compact&theme=nightowl&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atia-Farha&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Atia-Farha's GitHub Stats" />
 </div>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=tokyonight&no-frame=true&column=-1" />
