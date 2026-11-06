@@ -1,24 +1,23 @@
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&color=CB9DF0&center=true&vCenter=true&lines=Welcome+to+My+Profile!;I+am+Atia+Farha">
-</h1>
-<div align="center">
-  <p>A passionate student, self-taught programmer, and aspiring developer from Bangladesh</p>
 
+<div align="center">
   <a href="https://github.com/Atia-Farha?tab=repositories"> 
     <img src="https://img.shields.io/badge/View-My_Projects-CB9DF0?style=flat"/>
   </a>
 </div>
+</h1>
 
-## 👩 About Me
-- **Age:** 19
+## About Me
+- **Age:** 20
 - **Pronoun:** She/Her
 - **Country:** Bangladesh
 - **Personality type (MBTI):** INTP
 - **Goal:** Frontend-Centric Software Engineer with Practical Backend Knowledge
 - **Fun fact:** When I'm not glued to coding, you might find me solving a Rubik's Cube, playing online games or badminton, listening to music, reading webtoons, watching Korean series, doodling or searching for random things on Google.
 
-## 🔧 Technologies I use
+## Technologies I use
 ### Web Development:
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -28,6 +27,8 @@
   <img src="https://img.shields.io/badge/Tailwind-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white">
+  <img src="https://img.shields.io/badge/Pinia-F7D336?style=for-the-badge&logo=pinia&logoColor=black">
+  <img src="https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apexchartsjs&logoColor=white">
 </div>
 
 ### Basic Programming:
@@ -50,15 +51,26 @@
   <img src="https://img.shields.io/badge/Textual-0A161C?style=for-the-badge&logo=python&logoColor=white">
 </div> 
 
-### Tools:
+### Development Tools:
 <div align="center" >
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/pnpm-E39E02?style=for-the-badge&logo=pnpm&logoColor=white">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Chrome_DevTools-2172F9?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white">
+  <img src="https://img.shields.io/badge/DBGate-1b8caa?style=for-the-badge&logo=databricks&logoColor=white">
+</div>
+
+## Hosting
+<div align="center">
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
   <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
   <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white">
@@ -66,7 +78,19 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </div>
 
-## 🌱 Current Learning
+## AI Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
+  <img src="https://img.shields.io/badge/Antigravity_IDE-2E86F7?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Antigravity_CLI-2E86F7?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Cursor-14120B?style=for-the-badge&logo=cursor&logoColor=white">
+  <img src="https://img.shields.io/badge/Puku_CLI-3231DC?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCode-131010?style=for-the-badge&logo=opencode&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-2E86F7?style=for-the-badge&logo=googlegemini&logoColor=white">
+</div>
+
+## Current Learning
 
 ### DSA:
 <div align="center" >
@@ -83,26 +107,21 @@
   <img src="https://img.shields.io/badge/Laravel-F61500?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
 
-## 🎯 Future Learning Plan
+## Future Learning Plan
 
-### Frontend:
 <div align="center">
-  <img src="https://img.shields.io/badge/GSAP.js-0AE448?style=for-the-badge&logo=gsap&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/GSAP.js-0AE448?style=for-the-badge&logo=gsap&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2560FF?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
 </div>
 
-### GUI:
-<div align="center">
-  <img src="https://img.shields.io/badge/Java%20Swing-04536F?style=for-the-badge&logo=coffeescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaFX-04536F?style=for-the-badge&logo=coffeescript&logoColor=white">
-</div>
-
-## 📈 GitHub Stats
+## GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Atia-Farha&theme=nightowl&hide_border=true" alt="Atia-Farha's GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atia-Farha&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Atia-Farha's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Atia-Farha&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Atia-Farha's GitHub Stats" />
 </div>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Atia-Farha&theme=tokyonight&no-frame=true&column=-1" />
@@ -112,7 +131,7 @@
   <img src="https://komarev.com/ghpvc/?username=Atia-Farha&label=Profile%20Views&color=CB9DF0&style=for-the-badge&base=700&abbreviated=true">
 </div>  
 
-## 💬 Let's Connect!
+## Let's Connect!
 <div align="center">
   <a href="https://leetcode.com/u/Atia-Farha/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
