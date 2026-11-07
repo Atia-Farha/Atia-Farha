@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </div>
 
-## Hosting
+### Hosting
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
@@ -78,13 +78,13 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
 </div>
 
-## AI Tools
+### AI Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
   <img src="https://img.shields.io/badge/Antigravity_IDE-2E86F7?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/Antigravity_CLI-2E86F7?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/Cursor-14120B?style=for-the-badge&logo=cursor&logoColor=white">
-  <img src="https://img.shields.io/badge/Puku_CLI-3231DC?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/Puku_CLI-8D65F0?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCode-131010?style=for-the-badge&logo=opencode&logoColor=white">
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Gemini-2E86F7?style=for-the-badge&logo=googlegemini&logoColor=white">
